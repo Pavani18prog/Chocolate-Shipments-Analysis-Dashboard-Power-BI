@@ -64,6 +64,7 @@ I will keep improving this dashboard as I learn more.
 ---
 ## 📷 Dashboard Preview
 
-(Insert your dashboard screenshot here)
+<img width="800" height="439" alt="image" src="https://github.com/user-attachments/assets/f111356e-ecd8-4244-8888-df47aa679ab2" />
+
 
 ---
